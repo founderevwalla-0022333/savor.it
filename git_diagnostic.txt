@@ -1,0 +1,21 @@
+Running Git diagnostics... 
+=================================== 
+Git Status: 
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_diag.bat
+	git_diagnostic.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+ 
+=================================== 
+Git Recent Commits (Log): 
+4c6d851c remove large files
+2f1c24cc initial commit
+ 
+=================================== 
+Git Remote URL: 
+origin	https://github.com/founderevwalla-0022333/savor.it.git (fetch)
+origin	https://github.com/founderevwalla-0022333/savor.it.git (push)
+Done! 

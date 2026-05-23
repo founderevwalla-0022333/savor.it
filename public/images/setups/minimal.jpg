@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5f5dc"/>
+      <stop offset="100%" style="stop-color:#e8e4d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <rect x="150" y="120" width="500" height="280" rx="12" fill="#d4cfc4" opacity="0.5"/>
+  <rect x="250" y="160" width="300" height="180" rx="8" fill="#c4bfb4" opacity="0.6"/>
+  <circle cx="600" cy="350" r="30" fill="#7da87b" opacity="0.6"/>
+  <text x="400" y="450" text-anchor="middle" fill="#5a5a4a" font-family="Inter,sans-serif" font-size="18" font-weight="600" opacity="0.7">Minimal Desk Setup</text>
+</svg>
